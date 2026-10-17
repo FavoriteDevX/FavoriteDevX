@@ -17,6 +17,8 @@
 
 🗂️ What you will found here: useful developer and web tools, secrets and unlock abilities
 
+💼 I have corporative/professional intentions: no
+
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
 ## Quick link: 👉 https://github.com/claudecoded/all-my-repos-package/tree/main
