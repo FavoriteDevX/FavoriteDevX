@@ -11,13 +11,13 @@
 
 😁 Pronoums: he/him
 
-📬 Reach me by: e-mail 
+📬 Reach me by: sending me a e-mail [here](mailto:davischulze113@gmail.com)
 
 🧑🏽‍💻 I like: reading, create, and have entertainment 
 
 🗂️ What you will found here: useful developer and web tools, secrets and unlock abilities
 
-💼 I have corporative/professional intentions: no
+---
 
 If you enjoy my profile, scroll down to learn more about me. Serious, it will worth your time.
 
