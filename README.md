@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 <img width="880" height="192" alt="bruh" src="https://github.com/user-attachments/assets/613dbcde-3b93-4de4-8a87-44ce9765b524" />
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=claudecoded&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FavoriteDevX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
 </div>
 
 
