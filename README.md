@@ -29,7 +29,7 @@
 
 <img width="918" height="147" alt="image" src="https://github.com/user-attachments/assets/4f99249c-268d-4c10-88e6-5e094280340f" />
 
-🚧 Also built and not yet given a front door: GitHub Multiverse (explore a 3D Silicon Valley replica as a mouse pointer and fight memory leaks in co-op dungeons), TRACKR (Letterboxd for albums), ToolDock, and Daily Heatmap Journal, a native macOS app in Swift.
+🚧 Also built and not yet given a front door: GitHub Multiverse (explore 3D worlds on a Decentraland-like dimension as a mouse pointer and make new friends, collaborate on workspaces, explore your next adventure and also fight memory leaks in co-op dungeons), TRACKR (Letterboxd for albums), ToolDock, and Daily Heatmap Journal, a native macOS app in Swift.
 
 ## 🧰 Stack
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) 
