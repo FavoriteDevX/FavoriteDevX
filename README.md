@@ -21,12 +21,17 @@
 
 ---
 
-## 📬 Find me elsewhere
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:seu-email@outlook.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-site.com)
+## 🛠️ Selected work
 
+<img width="923" height="147" alt="image" src="https://github.com/user-attachments/assets/979c1310-0551-48db-bc57-24918434a653" />
 
+<img width="936" height="114" alt="image" src="https://github.com/user-attachments/assets/511d3299-b3f5-4d70-a4a5-ba8d518107c3" />
 
-## 💻 My Tech beginner pack
+<img width="918" height="147" alt="image" src="https://github.com/user-attachments/assets/4f99249c-268d-4c10-88e6-5e094280340f" />
+
+🚧 Also built and not yet given a front door: GitHub Multiverse (explore a 3D Silicon Valley replica as a mouse pointer and fight memory leaks in co-op dungeons), TRACKR (Letterboxd for albums), ToolDock, and Daily Heatmap Journal, a native macOS app in Swift.
+
+## 🧰 Stack
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) 
 
 ## 🛠️ Skills and Languages
