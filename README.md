@@ -1,4 +1,6 @@
-### Hi there, <_devs_> 👋
+<img width="2064" height="512" alt="image" src="https://github.com/user-attachments/assets/841439c6-878c-40f4-bb0e-d30c8277ddf4" />
+
+## Hi there, <_devs_> 👋
 
 
 🔡 Favorite phrase: It's no use think outside the box and keep the ideas inside it.
