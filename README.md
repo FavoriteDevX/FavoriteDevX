@@ -1,17 +1,15 @@
 <img width="2064" height="512" alt="image" src="https://github.com/user-attachments/assets/841439c6-878c-40f4-bb0e-d30c8277ddf4" />
 
-## Hi there, <_devs_> 👋
+## Hi there, `<_devs_>` 👋
 
 
 🔡 Favorite phrase: It's no use think outside the box and keep the ideas inside it.
 
-🏠 I'm currently living on: Spazio Merlot, 392, aprt. 202
+💻 Looking for: hobby job on Apple
 
 📚 I'm learning: Tech Entrepreneurship on AMTECH
 
 🤔 I'm looking for: interesting things that solve people's problems
-
-😁 Pronoums: he/him
 
 📬 Reach me by: sending me a e-mail [here](mailto:davischulze113@gmail.com)
 
