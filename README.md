@@ -11,7 +11,7 @@
 
 🤔 I'm looking for: interesting things that solve people's problems
 
-📬 Reach me by: sending me a e-mail [here](mailto:davischulze113@gmail.com)
+📬 Reach me by: sending me a e-mail [here](mailto:davischulze113@gmail.com) and by my VS Code extensions, u can [![install right here](https://shields.io)](https://visualstudio.com)
 
 🧑🏽‍💻 I like: reading, create, and have entertainment 
 
