@@ -21,13 +21,14 @@
 
 ---
 
-## 🛠️ Selected work
-
+<details>
+  <summary><b>🛠️ Selected work</b></summary>
 <img width="923" height="147" alt="image" src="https://github.com/user-attachments/assets/979c1310-0551-48db-bc57-24918434a653" />
 
 <img width="936" height="114" alt="image" src="https://github.com/user-attachments/assets/511d3299-b3f5-4d70-a4a5-ba8d518107c3" />
 
 <img width="918" height="147" alt="image" src="https://github.com/user-attachments/assets/4f99249c-268d-4c10-88e6-5e094280340f" />
+</details>
 
 🚧 Also built and not yet given a front door: GitHub Multiverse (explore 3D worlds on a Decentraland-like dimension as a mouse pointer and make new friends, collaborate on workspaces, explore your next adventure and also fight memory leaks in co-op dungeons), TRACKR (Letterboxd for albums), ToolDock, and Daily Heatmap Journal, a native macOS app in Swift.
 
