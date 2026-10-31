@@ -22,7 +22,7 @@
 ---
 
 <details>
-  <summary><b>🛠️ Selected work</b></summary>
+  ##<summary><b>🛠️ Selected work</b></summary>
 <img width="923" height="147" alt="image" src="https://github.com/user-attachments/assets/979c1310-0551-48db-bc57-24918434a653" />
 
 <img width="936" height="114" alt="image" src="https://github.com/user-attachments/assets/511d3299-b3f5-4d70-a4a5-ba8d518107c3" />
