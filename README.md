@@ -2,10 +2,9 @@
 
 ## Hi there, `<_devs_>` 👋
 
+💻 I'm creating an: AI on search/software for devs company (it's hasn't been released yet)
 
-🔡 Favorite phrase: It's no use think outside the box and keep the ideas inside it.
-
-💻 Looking for: hobby job on Apple
+💼 Looking for: hobby job on Apple
 
 📚 I'm learning: Tech Entrepreneurship on AMTECH
 
