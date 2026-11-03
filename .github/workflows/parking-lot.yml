@@ -21,7 +21,7 @@ jobs:
           USER_NAME="${{ github.event.issue.user.login }}"
           AVATAR_URL="${{ github.event.issue.user.avatar_url }}"
           
-          # Estrutura a tag HTML da foto redonda com link para o perfil deles
+          # Estrutura a tag HTML da foto redonda
           NEW_AVATAR="<a href=\"https://github.com\"><img src=\"$AVATAR_URL\" width=\"45\" height=\"45\" style=\"border-radius:50%; margin:4px;\" alt=\"$USER_NAME\" title=\"$USER_NAME\"/></a>"
           
           # Adiciona a imagem logo abaixo da linha de início do estacionamento
