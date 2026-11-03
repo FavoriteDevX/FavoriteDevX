@@ -26,8 +26,6 @@ Click the button below to automatically park your avatar in my profile!
 
 🤔 I'm looking for: interesting things that solve people's problems
 
-📬 Reach me by: sending me a e-mail [here](mailto:davischulze113@gmail.com) and by my VS Code extensions, u can [![install right here](https://shields.io)](https://visualstudio.com)
-
 🧑🏽‍💻 I like: reading, create, and have entertainment 
 
 🗂️ What you will found here: useful developer and web tools, secrets and unlock abilities
@@ -36,19 +34,13 @@ Click the button below to automatically park your avatar in my profile!
 
 ---
 
-<details>
-  ##<summary><b>🛠️ Selected work</b></summary>
-<img width="923" height="147" alt="image" src="https://github.com/user-attachments/assets/979c1310-0551-48db-bc57-24918434a653" />
-
-<img width="936" height="114" alt="image" src="https://github.com/user-attachments/assets/511d3299-b3f5-4d70-a4a5-ba8d518107c3" />
-
-<img width="918" height="147" alt="image" src="https://github.com/user-attachments/assets/4f99249c-268d-4c10-88e6-5e094280340f" />
-</details>
-
-🚧 Also built and not yet given a front door: GitHub Multiverse (explore 3D worlds on a Decentraland-like dimension as a mouse pointer and make new friends, collaborate on workspaces, explore your next adventure and also fight memory leaks in co-op dungeons), TRACKR (Letterboxd for albums), ToolDock, and Daily Heatmap Journal, a native macOS app in Swift.
-
 ## 🧰 Stack
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) 
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com) ![Claude AI](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white) ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) 
+
+## 📬 Find me elsewhere
+
+[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davischulze113@gmail.com) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github-universe-sigma.vercel.app/)
+
 
 ## 🛠️ Skills and Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
@@ -58,6 +50,12 @@ Click the button below to automatically park your avatar in my profile!
     <img src="https://skillicons.dev/icons?i=java,py,nodejs,gcp,codepen,apple,notion&theme=dark" alt="My Skills" />
   </a>
 </p>
+
+🚧 Also built and not yet given a front door: GitHub Multiverse (explore 3D worlds on a Decentraland-like dimension as a mouse pointer and make new friends, collaborate on workspaces, explore your next adventure and also fight memory leaks in co-op dungeons), TRACKR (Letterboxd for albums), ToolDock, and Daily Heatmap Journal, a native macOS app in Swift.
+
+## 🚀 Frameworks & Library 🔝
+
+[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://google.com) [![HuggingFace](https://shields.io)](https://huggingface.co)
 
 ## 👨🏻‍💻 IDE
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
