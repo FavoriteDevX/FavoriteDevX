@@ -79,7 +79,3 @@ Click the button below to automatically park your avatar in my profile!
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FavoriteDevX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
 </div>
-
-
-## 🎉 Fun Fact:
-I'm creating an software/AI company called Isomorphic, that will offer developer-friendly tools, software enginering fro your OS and AI services. It will be avaible before the end of 2026. Wait me there!
