@@ -1,0 +1,42 @@
+name: Visitor Parking Lot Bot
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  park-avatar:
+    if: contains(github.event.issue.title, 'Park My Avatar')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Process and Add Avatar
+        run: |
+          USER_NAME="${{ github.event.issue.user.login }}"
+          AVATAR_URL="${{ github.event.issue.user.avatar_url }}"
+          
+          # Estrutura a tag HTML da foto redonda com link para o perfil deles
+          NEW_AVATAR="<a href=\"https://github.com\"><img src=\"$AVATAR_URL\" width=\"45\" height=\"45\" style=\"border-radius:50%; margin:4px;\" alt=\"$USER_NAME\" title=\"$USER_NAME\"/></a>"
+          
+          # Adiciona a imagem logo abaixo da linha de início do estacionamento
+          sed -i "/<!-- START_PARKING_LOT -->/a $NEW_AVATAR" README.md
+
+      - name: Commit and Push to Profile
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add README.md
+          git commit -m "🅿️ Parking Lot: @${{ github.event.issue.user.login }} has parked!"
+          git push
+
+      - name: Autoclose Issue
+        run: |
+          gh issue close ${{ github.event.issue.number }} --comment "🚗💨 Vroom! Your avatar is now officially parked in the lot. Thanks for stopping by!"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
