@@ -12,7 +12,7 @@ body:
     id: avatar-upload
     attributes:
       label: Attach your profile image here
-      description: You can drag and drop your picture, or click below to browse and select it.
+      description: Drag and drop your picture, or click below to browse and select it.
       placeholder: "Drag your file here or click to add files..."
     validations:
       required: true
