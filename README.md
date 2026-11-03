@@ -2,9 +2,9 @@
 
 ## 🅿️ Visitor Parking Lot
 
-Click the button below to automatically park your avatar in my profile!
+Also be sure to park your avatar here when visiting my profile
 
-[![Park Your Avatar](https://shields.io🅿️-Park_Here-blue?style=for-the-badge)](https://github.com!)
+[![Park Your Avatar](https://shields.io🅿️-Park_Here-blue?style=for-the-badge)](https://github.com{{github.repository}}/issues/new?title=Park+My+Avatar&body=Just+click+%27Submit+new+issue%27+to+park+your+avatar+here!+The+bot+will+handle+the+rest+and+close+this+issue+automatically+in+a+few+seconds.)
 
 ```xml
 +--------------------------------------------------------+
