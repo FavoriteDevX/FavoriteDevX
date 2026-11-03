@@ -1,18 +1,5 @@
 <img width="2064" height="512" alt="image" src="https://github.com/user-attachments/assets/841439c6-878c-40f4-bb0e-d30c8277ddf4" />
 
-## 🅿️ Visitor Parking Lot
-
-Also be sure to park your avatar here when visiting my profile
-
-<a href="https://github.com"><img src="https://shields.io🅿️-Park_Here-blue?style=for-the-badge" alt="Park Here"></a>
-
-```xml
-+--------------------------------------------------------+
-
-|                      PARKING LOT                       |
-+--------------------------------------------------------+
-```
-
 ## Hi there, `<_devs_>` 👋
 
 💻 I'm creating an: AI on search/software for devs company (it's hasn't been released yet)
