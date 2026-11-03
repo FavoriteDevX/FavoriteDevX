@@ -4,15 +4,12 @@
 
 Also be sure to park your avatar here when visiting my profile
 
-[![Park Your Avatar](https://shields.io🅿️-Park_Here-blue?style=for-the-badge)](https://github.com{{github.repository}}/issues/new?title=Park+My+Avatar&body=Just+click+%27Submit+new+issue%27+to+park+your+avatar+here!+The+bot+will+handle+the+rest+and+close+this+issue+automatically+in+a+few+seconds.)
+<a href="https://github.com"><img src="https://shields.io🅿️-Park_Here-blue?style=for-the-badge" alt="Park Here"></a>
 
 ```xml
 +--------------------------------------------------------+
 
 |                      PARKING LOT                       |
-+--------------------------------------------------------+
-<!-- START_PARKING_LOT -->
-<!-- END_PARKING_LOT -->
 +--------------------------------------------------------+
 ```
 
