@@ -1,18 +1,18 @@
 name: 🅿️ Park Your Avatar
-description: Click here to upload and share your profile picture!
-title: "[Parking Lot] New Avatar"
+description: Click here to upload your profile picture!
+title: "[Parking Lot] New Avatar Submission"
 labels: ["parking-lot"]
 body:
   - type: markdown
     attributes:
       value: |
         ### Welcome to the Parking Lot! 🚗
-        Drop your avatar image below to park on my profile.
+        Please upload your image below.
   - type: textarea
     id: avatar-upload
     attributes:
-      label: Upload your profile image here
-      description: Drag and drop your image file right into the box below, or click to select it from your device.
-      placeholder: "Attach your image here..."
+      label: Attach your profile image here
+      description: You can drag and drop your picture, or click below to browse and select it.
+      placeholder: "Drag your file here or click to add files..."
     validations:
       required: true
