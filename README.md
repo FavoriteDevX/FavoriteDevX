@@ -25,6 +25,10 @@ I think real connections go much far than just code lines. Let's connect?
 
 [![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/favoritedevx) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davischulze113@gmail.com) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github-universe-sigma.vercel.app/)
 
+## 📊 GitHub Stats
+
+<img width="880" height="192" alt="bruh" src="https://github.com/user-attachments/assets/613dbcde-3b93-4de4-8a87-44ce9765b524" />
+
 ## 🛠️ Skills and Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#bdb76b) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
@@ -40,8 +44,6 @@ I think real connections go much far than just code lines. Let's connect?
 
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://google.com) ![HuggingFace](https://shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
-
-
 ## 👨🏻‍💻 IDE
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -56,9 +58,4 @@ I think real connections go much far than just code lines. Let's connect?
   
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DaviSchulze) 
-
-## 📊 GitHub Stats
-<img width="880" height="192" alt="bruh" src="https://github.com/user-attachments/assets/613dbcde-3b93-4de4-8a87-44ce9765b524" />
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=FavoriteDevX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
-</div>
+---
