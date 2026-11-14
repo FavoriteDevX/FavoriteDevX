@@ -1,4 +1,4 @@
-<img width="2064" height="512" alt="image" src="https://github.com/user-attachments/assets/841439c6-878c-40f4-bb0e-d30c8277ddf4" />
+<img width="1886" height="560" alt="image" src="https://github.com/user-attachments/assets/dcd1242a-aa97-442d-9016-37fdc76c3924" />
 
 ## Hi there, `<_devs_>` 👋
 
@@ -42,17 +42,14 @@ I think real connections go much far than just code lines. Let's connect?
 
 ## 😎 Beyond the code
 
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge) ![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) ![Apple TV Badge](https://img.shields.io/badge/Apple%20TV-000?logo=appletv&logoColor=fff&style=for-the-badge) ![Apple News Badge](https://img.shields.io/badge/Apple%20News-FD415E?logo=applenews&logoColor=fff&style=for-the-badge) ![Decentraland Badge](https://img.shields.io/badge/Decentraland-FF2D55?logo=decentraland&logoColor=fff&style=for-the-badge) 
-
-## 🚀 Frameworks & Library 🔝
-
-[![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://google.com) ![HuggingFace](https://shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge) ![Decentraland Badge](https://img.shields.io/badge/Decentraland-FF2D55?logo=decentraland&logoColor=fff&style=for-the-badge)  ![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white) ![Apple TV Badge](https://img.shields.io/badge/Apple%20TV-000?logo=appletv&logoColor=fff&style=for-the-badge) ![Apple News Badge](https://img.shields.io/badge/Apple%20News-FD415E?logo=applenews&logoColor=fff&style=for-the-badge)
 
 
-## 💾 Operational System
+## 💾 Operating System
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![FreeBSD](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white) ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
   
-  
+
+
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DaviSchulze) ![Ko--Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
 ---
